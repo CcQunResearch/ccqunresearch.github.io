@@ -15,19 +15,27 @@ npm run dev
 
 ## 发布到 GitHub Pages
 
-1. 在 `CcQunResearch` 账号下创建 `CcQunResearch.github.io` 仓库。
-2. 把本 PRISM 目录内的文件放到仓库根目录，包含隐藏目录 `.github/`；不要上传 `node_modules/`、`.next/` 或原始简历文件。
-3. 仓库 Settings → Pages → Build and deployment 选择 GitHub Actions。
-4. 推送到 `main` 或 `master`，等待 Actions 中的部署任务成功。
-5. 访问 https://ccqunresearch.github.io/ 。这是预期发布地址，当前源码交付不代表已经上线。
+主页：**https://ccqunresearch.github.io/**  
+仓库：[CcQunResearch/ccqunresearch.github.io](https://github.com/CcQunResearch/ccqunresearch.github.io)
 
-注意：本地仓库的 origin 仍指向 PRISM 上游模板。发布前请改为自己的仓库，勿向上游推送。
+Pages 已配置为使用 **GitHub Actions**。更新 `main` 或 `master` 分支后，会自动执行代码检查、类型检查、静态构建及部署；也可在 Actions 中手动运行。发布流程使用 GitHub 自带的临时授权，不在源码中保存账号密码或个人令牌。
+
+后续维护建议从已发布仓库克隆：
+
+```sh
+git clone https://github.com/CcQunResearch/ccqunresearch.github.io.git
+cd ccqunresearch.github.io
+npm ci
+```
+
+不要上传原始私人简历、账号凭据、`node_modules/` 或 `.next/`。原始 PRISM 本地模板目录与已发布仓库的提交历史相互独立。
 
 ## 维护
 
 - `content/`：英文内容。
 - `content_zh/`：中文简介、导航和简历。
 - `content/publications.bib`：全部 15 篇论文、双语摘要、链接及同等贡献标记。
+- `content/news.json`：按时间倒序排列的中英文动态。
 - `content/profile.json`：教育和工作经历。
 - `public/bio.jpg`：从所提供简历提取的个人照片。
 - `docs/content-sources.md`：内容来源及信息核对说明。

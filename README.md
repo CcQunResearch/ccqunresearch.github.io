@@ -23,13 +23,20 @@ The static site is generated in `out/`. It needs no server, database, API key, o
 
 ## GitHub Pages
 
-1. Create a repository named **CcQunResearch.github.io** in the `CcQunResearch` account.
-2. Upload the **contents of this PRISM directory** into the repository root, including `.github/workflows/deploy.yml`. Do not upload `node_modules/`, `.next/`, or the original private résumé.
-3. In **Settings → Pages → Build and deployment**, choose **GitHub Actions**.
-4. Push to `main` or `master`, or manually run the deployment workflow in Actions.
-5. After the workflow succeeds, visit **https://ccqunresearch.github.io/**.
+Website: **https://ccqunresearch.github.io/**  
+Repository: [CcQunResearch/ccqunresearch.github.io](https://github.com/CcQunResearch/ccqunresearch.github.io)
 
-This is the intended deployment URL, not a claim that this repository has already been created or the site published. The local template's `origin` still points at upstream PRISM; do not push there. Set the remote to your own repository before pushing.
+GitHub Pages uses **GitHub Actions**. Push changes to `main` or `master` to run lint, type checks, the static build, and deployment. The workflow can also be started manually from the Actions tab. No personal access token or account password is stored in the source or required by the deployment workflow.
+
+For future updates, clone the published repository:
+
+```sh
+git clone https://github.com/CcQunResearch/ccqunresearch.github.io.git
+cd ccqunresearch.github.io
+npm ci
+```
+
+Keep the original private résumé, credentials, `node_modules/`, and `.next/` out of the repository. The original local PRISM template checkout is separate from the published repository history.
 
 The workflow also supports project repositories: GitHub supplies the correct base path automatically. For local project-path testing, set `NEXT_PUBLIC_BASE_PATH=/repository-name` before building.
 
@@ -38,6 +45,7 @@ The workflow also supports project repositories: GitHub supplies the correct bas
 | Content | File |
 | --- | --- |
 | Name, links, navigation, language settings | `content/config.toml`, `content_zh/config.toml` |
+| Bilingual news updates | `content/news.json` |
 | Biography | `content/bio.md`, `content_zh/bio.md` |
 | Publications, English and Chinese descriptions | `content/publications.bib` |
 | Education and work timeline | `content/profile.json` |
