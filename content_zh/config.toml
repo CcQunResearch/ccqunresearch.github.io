@@ -1,0 +1,55 @@
+[site]
+title = "崔超群"
+description = "崔超群的学术主页，研究 GUI 智能体、偏好优化、多模态字幕翻译与谣言检测。"
+favicon = "/favicon.svg"
+last_updated = "2026-10-03"
+[author]
+name = "崔超群"
+title = "博士研究生"
+institution = "中国科学院自动化研究所 · 中国科学院大学"
+avatar = "/bio.jpg"
+[social]
+email = "13698603020@163.com"
+location = "中国 · 北京"
+google_scholar = "https://scholar.google.com.hk/citations?user=tEZIeEUAAAAJ"
+github = "https://github.com/CcQunResearch"
+blog = "https://www.jianshu.com/u/fdb45de7ecac"
+[features]
+enable_likes = false
+enable_one_page_mode = false
+[i18n]
+enabled = true
+locales = ["en", "zh"]
+default_locale = "en"
+mode = "fixed"
+fixed_locale = "en"
+persist = true
+switcher = true
+[i18n.labels]
+zh = "中文"
+en = "English"
+[[navigation]]
+title = "关于"
+type = "page"
+target = "about"
+href = "/"
+[[navigation]]
+title = "研究"
+type = "section"
+target = "research"
+href = "/#research"
+[[navigation]]
+title = "论文"
+type = "page"
+target = "publications"
+href = "/publications"
+[[navigation]]
+title = "经历"
+type = "section"
+target = "experience"
+href = "/#experience"
+[[navigation]]
+title = "简历"
+type = "page"
+target = "cv"
+href = "/cv"

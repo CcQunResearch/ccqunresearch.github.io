@@ -1,0 +1,83 @@
+{
+  "education": [
+    {
+      "date": "2025.09 — Present",
+      "date_zh": "2025.09 — 至今",
+      "org": "Institute of Automation, CAS · UCAS",
+      "org_zh": "中国科学院自动化研究所 · 中国科学院大学",
+      "role": "PhD · Pattern Recognition and Intelligent Systems",
+      "role_zh": "博士 · 模式识别与智能系统",
+      "detail": "State Key Laboratory of Multimodal Artificial Intelligence Systems",
+      "detail_zh": "多模态人工智能系统全国重点实验室",
+      "advisor": "Wenji Mao",
+      "advisor_zh": "毛文吉",
+      "advisor_url": "https://people.ucas.ac.cn/~maowenji"
+    },
+    {
+      "date": "2021.09 — 2024.06",
+      "org": "Beijing Jiaotong University",
+      "org_zh": "北京交通大学",
+      "role": "Master’s degree · Computer Science and Technology",
+      "role_zh": "硕士 · 计算机科学与技术",
+      "detail": "Beijing Key Laboratory of Traffic Data Analysis and Mining",
+      "detail_zh": "交通数据分析与挖掘北京市重点实验室"
+    },
+    {
+      "date": "2017.09 — 2021.06",
+      "org": "Beijing Jiaotong University",
+      "org_zh": "北京交通大学",
+      "role": "Bachelor’s degree · Software Engineering",
+      "role_zh": "本科 · 软件工程",
+      "detail": "GPA ranked in the top 8%",
+      "detail_zh": "GPA 排名前 8%"
+    }
+  ],
+  "experience": [
+    {
+      "date": "2026.05 — Present",
+      "date_zh": "2026.05 — 至今",
+      "org": "Tencent · Rhino-Bird Elite Talent Program",
+      "org_zh": "腾讯 · 犀牛鸟精英人才计划",
+      "role": "Intern · WXG Foundation Model Technology Team (WeLM)",
+      "role_zh": "实习 · WXG 基础模型技术团队（WeLM）",
+      "detail": "Research on long-horizon software engineering agents: SWE-MILE combines milestone credit assignment and asynchronous shadow probing to provide runtime-grounded process supervision for reinforcement learning.",
+      "detail_zh": "研究长程软件工程智能体，提出 SWE-MILE，结合里程碑信用分配与异步影子探测，利用工作流运行时信号为强化学习提供过程监督。"
+    },
+    {
+      "date": "2025.10 — 2026.02",
+      "org": "Meituan",
+      "org_zh": "美团",
+      "role": "Intern · M17 LongCat",
+      "role_zh": "实习 · M17 LongCat 基座团队",
+      "detail": "Reward modeling for GUI agents and reinforcement learning with verifiable rewards on OSWorld.",
+      "detail_zh": "面向 OSWorld 的 GUI 智能体研究，探索 RLVR 训练中的结果奖励与过程奖励建模。"
+    },
+    {
+      "date": "2024.02 — 2025.08",
+      "org": "Alibaba Digital Media & Entertainment",
+      "org_zh": "阿里大文娱集团",
+      "role": "Internship & Full-time",
+      "role_zh": "实习及正式工作",
+      "detail": "Multilingual subtitle translation and dubbing for Youku, with preference optimization, duration alignment, and speaker identification.",
+      "detail_zh": "面向优酷剧目出海，研究多语种字幕翻译、偏好优化、配音时延对齐与说话人识别。"
+    },
+    {
+      "date": "2023.08 — 2023.11",
+      "org": "Baidu",
+      "org_zh": "百度",
+      "role": "Intern · Search Strategy, DeepQA",
+      "role_zh": "实习 · 搜索策略部 DeepQA 团队",
+      "detail": "Retrieval-augmented generation for structured question answering and table generation.",
+      "detail_zh": "利用检索增强生成技术改进结构化数据问答、表格生成与拒答能力。"
+    },
+    {
+      "date": "2020.09 — 2021.01",
+      "org": "Alibaba Cloud",
+      "org_zh": "阿里云",
+      "role": "Intern · Industrial Brain",
+      "role_zh": "实习 · 工业大脑数字产业产研部",
+      "detail": "Natural-language-to-SQL systems combining template matching, rules, and neural models.",
+      "detail_zh": "结合模板匹配、规则与深度模型构建 NL2SQL 系统，拓展复杂 SQL 语法支持。"
+    }
+  ]
+}

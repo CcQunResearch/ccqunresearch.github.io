@@ -1,0 +1,55 @@
+[site]
+title = "Chaoqun Cui"
+description = "Chaoqun Cui — PhD student at CASIA and UCAS. Research on GUI agents, preference optimization, multimodal translation, and rumor detection."
+favicon = "/favicon.svg"
+last_updated = "2026-10-03"
+[author]
+name = "Chaoqun Cui"
+title = "PhD Student"
+institution = "Institute of Automation, CAS · UCAS"
+avatar = "/bio.jpg"
+[social]
+email = "13698603020@163.com"
+location = "Beijing, China"
+google_scholar = "https://scholar.google.com.hk/citations?user=tEZIeEUAAAAJ"
+github = "https://github.com/CcQunResearch"
+blog = "https://www.jianshu.com/u/fdb45de7ecac"
+[features]
+enable_likes = false
+enable_one_page_mode = false
+[i18n]
+enabled = true
+locales = ["en", "zh"]
+default_locale = "en"
+mode = "fixed"
+fixed_locale = "en"
+persist = true
+switcher = true
+[i18n.labels]
+zh = "中文"
+en = "English"
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+[[navigation]]
+title = "Research"
+type = "section"
+target = "research"
+href = "/#research"
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+[[navigation]]
+title = "Experience"
+type = "section"
+target = "experience"
+href = "/#experience"
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

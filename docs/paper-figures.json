@@ -1,0 +1,214 @@
+[
+  {
+    "id": "cui2026swemile",
+    "pdfPage": 3,
+    "figure": 1,
+    "clipPoints": [
+      107,
+      80,
+      505,
+      233
+    ],
+    "image": "/papers/cui2026swemile.webp",
+    "sourcePdf": "https://arxiv.org/pdf/2609.32631v1",
+    "ccf2026": null
+  },
+  {
+    "id": "cui2026vagen",
+    "pdfPage": 4,
+    "figure": 1,
+    "clipPoints": [
+      108,
+      74,
+      502,
+      258
+    ],
+    "image": "/papers/cui2026vagen.webp",
+    "sourcePdf": "https://arxiv.org/pdf/2602.00575",
+    "ccf2026": "A",
+    "note": "Figure 1, cropped above the (a), (b), (c) subfigure captions as requested."
+  },
+  {
+    "id": "wang2026gazereasoning",
+    "pdfPage": 4,
+    "figure": 4,
+    "clipPoints": [
+      106,
+      57,
+      507,
+      180
+    ],
+    "image": "/papers/wang2026gazereasoning.webp",
+    "sourcePdf": "https://arxiv.org/pdf/2605.22607",
+    "ccf2026": "A"
+  },
+  {
+    "id": "huang2026cinesrd",
+    "pdfPage": 3,
+    "figure": 1,
+    "clipPoints": [
+      57,
+      72,
+      555,
+      292
+    ],
+    "image": "/papers/huang2026cinesrd.webp",
+    "sourcePdf": "https://arxiv.org/pdf/2603.16966",
+    "ccf2026": "A"
+  },
+  {
+    "id": "cui2026p2t3",
+    "pdfPage": 5,
+    "figure": 3,
+    "clipPoints": [
+      70,
+      70,
+      526,
+      239
+    ],
+    "image": "/papers/cui2026p2t3.webp",
+    "sourcePdf": "https://arxiv.org/pdf/2603.22854",
+    "ccf2026": null
+  },
+  {
+    "id": "cui2026alpo",
+    "pdfPage": 6,
+    "figure": 4,
+    "clipPoints": [
+      106,
+      77,
+      506,
+      238
+    ],
+    "image": "/papers/cui2026alpo.webp",
+    "sourcePdf": "https://arxiv.org/pdf/2602.01068",
+    "ccf2026": "A"
+  },
+  {
+    "id": "cui2026hermes",
+    "pdfPage": 3,
+    "figure": 1,
+    "clipPoints": [
+      65,
+      78,
+      562,
+      294
+    ],
+    "image": "/papers/cui2026hermes.webp",
+    "sourcePdf": "https://arxiv.org/pdf/2602.00597",
+    "ccf2026": "A"
+  },
+  {
+    "id": "wang2025vl4gaze",
+    "pdfPage": 4,
+    "figure": 2,
+    "clipPoints": [
+      58,
+      73,
+      554,
+      281
+    ],
+    "image": "/papers/wang2025vl4gaze.webp",
+    "sourcePdf": "https://arxiv.org/pdf/2512.20735",
+    "ccf2026": null
+  },
+  {
+    "id": "cui2025massive",
+    "pdfPage": 4,
+    "figure": 2,
+    "clipPoints": [
+      45,
+      49,
+      566,
+      192
+    ],
+    "image": "/papers/cui2025massive.webp",
+    "sourcePdf": "https://arxiv.org/pdf/2508.04252",
+    "ccf2026": null
+  },
+  {
+    "id": "cui2025sspo",
+    "pdfPage": 5,
+    "figure": 2,
+    "clipPoints": [
+      70,
+      69,
+      527,
+      229
+    ],
+    "image": "/papers/cui2025sspo.webp",
+    "sourcePdf": "https://aclanthology.org/2025.acl-long.227.pdf",
+    "ccf2026": "A"
+  },
+  {
+    "id": "bai2025vga",
+    "pdfPage": 5,
+    "figure": 2,
+    "clipPoints": [
+      56,
+      84,
+      556,
+      367
+    ],
+    "image": "/papers/bai2025vga.webp",
+    "sourcePdf": "https://arxiv.org/pdf/2401.01759",
+    "ccf2026": "B"
+  },
+  {
+    "id": "cui2025adgscl",
+    "pdfPage": 6,
+    "figure": 3,
+    "clipPoints": [
+      70,
+      69,
+      527,
+      199
+    ],
+    "image": "/papers/cui2025adgscl.webp",
+    "sourcePdf": "https://aclanthology.org/2025.coling-main.476.pdf",
+    "ccf2026": "B"
+  },
+  {
+    "id": "cui2025psilm",
+    "pdfPage": 6,
+    "figure": 2,
+    "clipPoints": [
+      70,
+      68,
+      292,
+      216
+    ],
+    "image": "/papers/cui2025psilm.webp",
+    "sourcePdf": "https://aclanthology.org/2025.coling-main.478.pdf",
+    "ccf2026": "B",
+    "note": "The paper has no overall architecture figure; Figure 2 illustrates the propagation structure central to its method."
+  },
+  {
+    "id": "qiao2024rdst",
+    "pdfPage": 4,
+    "figure": 2,
+    "clipPoints": [
+      98,
+      174,
+      496,
+      393
+    ],
+    "image": "/papers/qiao2024rdst.webp",
+    "sourcePdf": "https://yuhan-qiao.github.io/mypaper/journal/neurocom.pdf",
+    "ccf2026": "C"
+  },
+  {
+    "id": "cui2024ragcl",
+    "pdfPage": 4,
+    "figure": 3,
+    "clipPoints": [
+      52,
+      214,
+      561,
+      373
+    ],
+    "image": "/papers/cui2024ragcl.webp",
+    "sourcePdf": "https://arxiv.org/pdf/2508.07201",
+    "ccf2026": "A"
+  }
+]

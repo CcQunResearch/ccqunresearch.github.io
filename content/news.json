@@ -1,0 +1,44 @@
+[
+  {
+    "id": "neurips-2026",
+    "date": "2026-09",
+    "en": "🔥 Two papers, [*Agentic Reward Modeling: Verifying GUI Agent via Progressive Trajectory-Grounded Interaction*](https://arxiv.org/abs/2602.00575) and [*Enhancing Gaze Reasoning in Vision Foundation Models for Gaze Following*](https://arxiv.org/abs/2605.22607), will appear at **NeurIPS 2026**.",
+    "zh": "🔥 两篇论文 [*Agentic Reward Modeling: Verifying GUI Agent via Progressive Trajectory-Grounded Interaction*](https://arxiv.org/abs/2602.00575) 和 [*Enhancing Gaze Reasoning in Vision Foundation Models for Gaze Following*](https://arxiv.org/abs/2605.22607) 将发表于 **NeurIPS 2026**。"
+  },
+  {
+    "id": "swe-mile-preprint",
+    "date": "2026-09",
+    "en": "🔥 Our new preprint, *SWE-MILE: Asynchronous Potential-Induced Milestone Credit Assignment for Long-Horizon Software Engineering Agents*, is available on [arXiv](https://arxiv.org/abs/2609.32631).",
+    "zh": "🔥 最新预印本 *SWE-MILE: Asynchronous Potential-Induced Milestone Credit Assignment for Long-Horizon Software Engineering Agents* 已在 [arXiv](https://arxiv.org/abs/2609.32631) 上线。"
+  },
+  {
+    "id": "tencent-internship",
+    "date": "2026-05",
+    "en": "I joined **Tencent’s WXG Foundation Model Technology Team (WeLM)** as an intern through the **Rhino-Bird Elite Talent Program**, working on long-horizon software engineering agents.",
+    "zh": "通过**腾讯犀牛鸟精英人才计划**，加入 **WXG 基础模型技术团队（WeLM）** 实习，研究长程软件工程智能体。"
+  },
+  {
+    "id": "vl4gaze-preprint",
+    "date": "2025-12",
+    "en": "Our preprint, *VL4Gaze: Unleashing Vision-Language Models for Gaze Following*, is available on [arXiv](https://arxiv.org/abs/2512.20735).",
+    "zh": "预印本 *VL4Gaze: Unleashing Vision-Language Models for Gaze Following* 已在 [arXiv](https://arxiv.org/abs/2512.20735) 上线。"
+  },
+  {
+    "id": "phd-start",
+    "date": "2025-09",
+    "en": "I started my PhD at the **Institute of Automation, Chinese Academy of Sciences**, advised by [Prof. Wenji Mao](https://people.ucas.ac.cn/~maowenji).",
+    "zh": "开始在**中国科学院自动化研究所**攻读博士学位，导师为[毛文吉研究员](https://people.ucas.ac.cn/~maowenji)。"
+  },
+  {
+    "id": "acl-2025",
+    "date": "2025-07",
+    "en": "[*Fine-grained Video Dubbing Duration Alignment with Segment Supervised Preference Optimization*](https://aclanthology.org/2025.acl-long.227/) was published at **ACL 2025**.",
+    "zh": "论文 [*Fine-grained Video Dubbing Duration Alignment with Segment Supervised Preference Optimization*](https://aclanthology.org/2025.acl-long.227/) 发表于 **ACL 2025**。"
+  },
+  {
+    "id": "coling-2025",
+    "date": "2025-01",
+    "en": "Two papers on rumor detection, [*Towards Real-World Rumor Detection*](https://aclanthology.org/2025.coling-main.476/) and [*Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model*](https://aclanthology.org/2025.coling-main.478/), were published at **COLING 2025**.",
+    "zh": "两篇谣言检测论文 [*Towards Real-World Rumor Detection*](https://aclanthology.org/2025.coling-main.476/) 和 [*Enhancing Rumor Detection Methods with Propagation Structure Infused Language Model*](https://aclanthology.org/2025.coling-main.478/) 发表于 **COLING 2025**。"
+  }
+]
